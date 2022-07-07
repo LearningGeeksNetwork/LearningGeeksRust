@@ -1,0 +1,6 @@
+[package]
+name = "rust_learning_geeks"
+version = "0.1.0"
+authors = ["RustLearningGeeks"]
+
+[dependencies]
